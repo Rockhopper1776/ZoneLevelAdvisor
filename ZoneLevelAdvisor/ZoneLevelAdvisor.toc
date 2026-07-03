@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Zone Level Advisor
+## Notes: Recommends leveling zones and dungeons based on your character level and faction.
+## Author: Codex
+## Version: 1.1.1
+
+ZoneLevelAdvisor.lua
