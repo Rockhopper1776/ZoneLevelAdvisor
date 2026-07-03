@@ -68,4 +68,4 @@ This add-on targets World of Warcraft 3.3.5a. It is intentionally written withou
 
 ## License
 
-No license has been selected yet. Add a license before treating this as reusable open-source software.
+Zone Level Advisor is released under the MIT License. See `LICENSE` for details.
