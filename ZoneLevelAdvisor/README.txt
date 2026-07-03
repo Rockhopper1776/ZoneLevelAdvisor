@@ -46,3 +46,9 @@ Notes
   filtered to the appropriate faction.
 - Version 1.1.1 increases the advisor window size and spacing so entries
   do not overlap the refresh button or each other.
+
+License
+-------
+
+Zone Level Advisor is released under the MIT License. See the repository
+LICENSE file for details.
